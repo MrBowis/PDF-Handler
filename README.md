@@ -27,5 +27,13 @@ pip install -r requirements.txt
 python <python_script.py> --help
 ```
 
+## Installation
+```bash
+pyinstaller --onefile <python_script.py>
+```
+
+## Recomendation
+Add to PATH for use script everywhere.
+
 ### Author
 - [MrBowis](https://github.com/MrBowis)
